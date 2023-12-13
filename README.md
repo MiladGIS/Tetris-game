@@ -10,5 +10,6 @@ This Python application is a tetris game developed using the Pygame library for 
 - Pygame
 - Random
 
-![Uploading image.png…]()
+![image](https://github.com/MiladGIS/Tetris-game/assets/96174234/4e3b5fac-e08e-40ee-8b4a-58a3adce03d8)
+
 
